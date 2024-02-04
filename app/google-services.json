@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238013619350",
+    "project_id": "student-emergency-application",
+    "storage_bucket": "student-emergency-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238013619350:android:262784183a1f803d8eb6b7",
+        "android_client_info": {
+          "package_name": "com.ghaithfattoum.studentsemergencyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWjVsAN4GvbMxjSJ8SOYdR8qJ_2Lh6GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
